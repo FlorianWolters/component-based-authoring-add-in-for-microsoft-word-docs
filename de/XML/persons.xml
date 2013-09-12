@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simple XML file which contains data about persons. -->
+<persons xmlns="http://schemas.florianwolters.de/persons">
+    <!-- Comments are allowed. -->
+    <person age="30" alive="true">
+        <lastname>Doe</lastname>
+        <firstname>John</firstname>
+    </person>
+    <!-- Empty element. -->
+    <person/>
+    <person age="27" alive="true">
+        <lastname>Doe</lastname>
+        <firstname>Jane</firstname>
+    </person>
+    <person age="60" alive="false">
+        <lastname>Mustermann</lastname>
+        <firstname>Max</firstname>
+    </person>
+    <person age="54" alive="false">
+        <lastname>Mustermann</lastname>
+        <firstname>Erika</firstname>
+    </person>
+</persons>

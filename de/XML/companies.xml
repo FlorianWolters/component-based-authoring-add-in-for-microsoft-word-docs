@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The names have been taken from http://forbes.com/sites/michaelnoer/2011/03/11/the-25-largest-fictional-companies -->
+<companies xmlns="http://schemas.florianwolters.de/companies">
+    <company>CHOAM</company>
+    <company>Acme Corp.</company>
+    <company>Sirius Cybernetics Corp.</company>
+    <company>MomCorp</company>
+    <company>Rich Industries</company>
+    <company>Soylent Corp.</company>
+    <company>Very Big Corp. of America</company>
+    <company>Frobozz Magic Co.</company>
+    <company>Warbucks Industries</company>
+    <company>Tyrell Corp.</company>
+    <company>Wayne Enterprises</company>
+    <company>Virtucon</company>
+    <company>Globex</company>
+    <company>Umbrella Corp.</company>
+    <company>Wonka Industries</company>
+    <company>Stark Industries</company>
+    <company>Clampett Oil</company>
+    <company>Oceanic Airlines</company>
+    <company>Yoyodyne Propulsion Sys.</company>
+    <company>Cyberdyne Systems Corp.</company>
+    <company>d’Anconia Copper</company>
+    <company>Gringotts</company>
+    <company>Oscorp</company>
+    <company>Nakatomi Trading Corp.</company>
+    <company>Spacely Space Sprockets</company>
+</companies>
